@@ -6,7 +6,7 @@ register variants, and a word-by-word lexicon with der/die/das for nouns.
 **Status: early development.** Built in small steps; checked items exist and are tested.
 
 - [x] Result schema and strict validation of model output
-- [ ] Gemini provider (bring your own key, stdlib only)
+- [x] Gemini provider (bring your own key, stdlib only)
 - [ ] translate(): prompt, parse, validate, retry once
 - [ ] Command-line interface (text and JSON output)
 - [ ] Claude Code skill
