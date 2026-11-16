@@ -8,7 +8,7 @@ register variants, and a word-by-word lexicon with der/die/das for nouns.
 - [x] Result schema and strict validation of model output
 - [x] Gemini provider (bring your own key, stdlib only)
 - [x] translate(): prompt, parse, validate, retry once
-- [ ] Command-line interface (text and JSON output)
+- [x] Command-line interface (text and JSON output)
 - [ ] Claude Code skill
 - [ ] Full documentation and design notes
 
