@@ -9,7 +9,7 @@ register variants, and a word-by-word lexicon with der/die/das for nouns.
 - [x] Gemini provider (bring your own key, stdlib only)
 - [x] translate(): prompt, parse, validate, retry once
 - [x] Command-line interface (text and JSON output)
-- [ ] Claude Code skill
+- [x] Claude Code skill
 - [ ] Full documentation and design notes
 
 ```bash
